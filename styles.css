@@ -1,0 +1,51 @@
+#main {
+  font-size: 16px;
+  font-family: Verdana, sans-serif;
+  background-color: rgba(34, 33, 33, 0.6);
+  color: #fff;
+}
+
+#title {
+  font-size: 3rem;
+  font-weight: 200;
+  text-align: center;
+}
+
+#description {
+  margin-bottom: 15px;
+  text-align: center;
+}
+
+#img-div {
+  background-color: #fff;
+}
+
+#img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: auto;
+  box-shadow: 5px 5px 5px #444;
+}
+
+#img-caption {
+  color: #444;
+  padding: 20px 10px;
+  text-align: center;
+}
+
+h3 {
+  font-size: 1.5rem;
+  font-weight: 300;
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+ul {
+  margin: auto;
+  max-width: 60%;
+}
+
+li {
+  margin-bottom: 10px;
+}
